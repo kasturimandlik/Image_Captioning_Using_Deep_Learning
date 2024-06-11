@@ -16,11 +16,11 @@ This project aims to provide one line caption for the given input image. Differe
 https://www.kaggle.com/datasets/jainamshah17/flicker8k-image-captioning
 
 # Deep Learning Techniques used
-1.LSTM
-2.NIC Model
-3.Encoder-Decoder inference
-4.Greedy Inference
-5.Inference using Beam Search
+1. LSTM
+2. NIC Model
+3. Encoder-Decoder inference
+4. Greedy Inference
+5. Inference using Beam Search
 
 # Results
 ![image](https://github.com/kasturimandlik/Image_Captioning_Using_Deep_Learning/assets/104767049/c952ae23-ef6c-4f5c-82dc-f51dab97ae95)
